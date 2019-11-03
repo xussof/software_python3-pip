@@ -1,2 +1,3 @@
----
-# defaults file for software_python3-pip
+#Example on how to define software version. Dont fill this var if you want the latest version
+#version-python3-pip:
+#byxussof this doesn't work yet
